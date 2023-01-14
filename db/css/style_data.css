@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+form {
+    margin-top: 20px;
+}
+form .tambah {
+    margin-bottom: 20px;
+}
+form input {
+    margin-top: 20px;
+}
+.table {
+    margin: 30px 40px;
+    width: 100%;
+    overflow-y: hidden;
+}
+table {
+    border-collapse: collapse;
+    font-size: 10pt;
+    border:1px solid #cccc;
+    margin-top: 30px;
+}
+table tr th {
+    border: 40%;
+}
+
